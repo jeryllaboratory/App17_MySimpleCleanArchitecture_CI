@@ -1,0 +1,1 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/jeryllaboratory/App17_MySimpleCleanArchitecture_CI/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/jeryllaboratory/App17_MySimpleCleanArchitecture_CI/tree/main)
